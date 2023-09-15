@@ -177,6 +177,8 @@ github.com/fluxcd/pkg/runtime v0.40.0 h1:uGiiEbMZwd7xmbKaVmcH7iilCFW9betWbz0r1ta
 github.com/fluxcd/pkg/runtime v0.40.0/go.mod h1:BqHEOVrZmt19p0q1OlGFWAYh3rZ28+IBpxLB2yPjjQ4=
 github.com/fluxcd/pkg/ssa v0.28.2 h1:BL42JK9Cg17PHh/VIh64e6GZ+rjO47uDMGXGSGeCdao=
 github.com/fluxcd/pkg/ssa v0.28.2/go.mod h1:nL0bCiFTAMvMrEKGlVCAgtLdP8VIPBGizY5xgasaypI=
+github.com/fluxcd/pkg/testserver v0.4.0 h1:pDZ3gistqYhwlf3sAjn1Q8NzN4Qe6I1BEmHMHi46lMg=
+github.com/fluxcd/pkg/testserver v0.4.0/go.mod h1:gjOKX41okmrGYOa4oOF2fiLedDAfPo1XaG/EzrUUGBI=
 github.com/fluxcd/source-controller/api v1.0.0 h1:lPjmCXmEiI3tY4pReeVQBMuyLgdH8462W5ewUa9kgYM=
 github.com/fluxcd/source-controller/api v1.0.0/go.mod h1:rAY5FRFGZUKpIFNyYANHIgPgJPvbALBHWsq/zHw/cXQ=
 github.com/foxcpp/go-mockdns v1.0.0 h1:7jBqxd3WDWwi/6WhDvacvH1XsN3rOLXyHM1uhvIx6FI=
