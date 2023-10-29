@@ -2,6 +2,8 @@ module github.com/fluxcd/helm-controller
 
 go 1.20
 
+replace github.com/fluxcd/pkg/runtime => github.com/fluxcd-fork/pkg/runtime v0.42.1-0.20231029125909-3205e3eb0806
+
 replace github.com/fluxcd/helm-controller/api => ./api
 
 // Replace digest lib to master to gather access to BLAKE3.
